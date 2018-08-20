@@ -60,9 +60,9 @@ typings/
 # next.js build output
 .next
 
-/do-here/node_modules/
-/do-here/nbproject/
-/do-here/platforms/
-/do-here/hooks/
-/do-here/lib/
+/do-here/node_modules
+/do-here/nbproject
+/do-here/platforms
+/do-here/hooks
+/do-here/lib
 
