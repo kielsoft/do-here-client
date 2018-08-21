@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\tempPlugin\\nativescript_google_maps_sdk\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/tempPlugin/nativescript_google_maps_sdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\90de06c521459fba2ddd84306f583ad1\\res\\values-port\\values-port.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76d2d6360526f15b00bd49fb06ffc850/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\tempPlugin\\nativescript_google_maps_sdk\\build\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
+            "outputFile": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/tempPlugin/nativescript_google_maps_sdk/build/intermediates/res/merged/release/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\90de06c521459fba2ddd84306f583ad1\\res\\values-port\\values-port.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76d2d6360526f15b00bd49fb06ffc850/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

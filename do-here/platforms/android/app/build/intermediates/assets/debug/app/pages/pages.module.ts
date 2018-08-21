@@ -8,7 +8,7 @@ import { RegisterComponent } from "~/pages/register/register.component";
 import { TaskListComponent } from "~/pages/task-list/task-list.component";
 import { NativeScriptFormsModule } from "nativescript-angular/forms";
 import { NewTaskComponent } from "~/pages/new-task/new-task.component";
-import { isEnabled, enableLocationRequest, getCurrentLocation, watchLocation, distance, clearWatch } from "nativescript-geolocation";
+import { MapComponent } from "~/pages/map/map.component";
 
 
 
@@ -25,7 +25,9 @@ import { isEnabled, enableLocationRequest, getCurrentLocation, watchLocation, di
         LoginComponent,
         RegisterComponent,
         TaskListComponent,
-        NewTaskComponent
+        NewTaskComponent,
+        MapComponent
+        
     ],
 })
 export class PagesModule  {

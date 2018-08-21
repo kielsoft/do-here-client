@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\tempPlugin\\nativescript_google_maps_sdk\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\f9c3407d2b992022a7282911f7622ae2\\res\\color\\common_google_signin_btn_text_dark.xml"
+        "merged": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/tempPlugin/nativescript_google_maps_sdk/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9298bed2dab1c5794b5ef40e5ebe514d/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\tempPlugin\\nativescript_google_maps_sdk\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\f9c3407d2b992022a7282911f7622ae2\\res\\color\\common_google_signin_btn_text_light.xml"
+        "merged": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/tempPlugin/nativescript_google_maps_sdk/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9298bed2dab1c5794b5ef40e5ebe514d/res/color/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\tempPlugin\\nativescript_google_maps_sdk\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
-        "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\f9c3407d2b992022a7282911f7622ae2\\res\\color\\common_google_signin_btn_tint.xml"
+        "merged": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/tempPlugin/nativescript_google_maps_sdk/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9298bed2dab1c5794b5ef40e5ebe514d/res/color/common_google_signin_btn_tint.xml"
     }
 ]

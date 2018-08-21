@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\tempPlugin\\nativescript_google_maps_sdk\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\90de06c521459fba2ddd84306f583ad1\\res\\layout-v21\\notification_action.xml"
+        "merged": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/tempPlugin/nativescript_google_maps_sdk/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76d2d6360526f15b00bd49fb06ffc850/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\tempPlugin\\nativescript_google_maps_sdk\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\90de06c521459fba2ddd84306f583ad1\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/tempPlugin/nativescript_google_maps_sdk/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76d2d6360526f15b00bd49fb06ffc850/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\tempPlugin\\nativescript_google_maps_sdk\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\90de06c521459fba2ddd84306f583ad1\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/tempPlugin/nativescript_google_maps_sdk/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76d2d6360526f15b00bd49fb06ffc850/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\tempPlugin\\nativescript_google_maps_sdk\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\90de06c521459fba2ddd84306f583ad1\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/tempPlugin/nativescript_google_maps_sdk/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76d2d6360526f15b00bd49fb06ffc850/res/layout-v21/notification_template_custom_big.xml"
     }
 ]

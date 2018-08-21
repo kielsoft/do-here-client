@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\149c617f2495fda9db4da2c580350b11\\res\\values-land\\values-land.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/b2fe2b9d37f251a963c16dfa9356e9c0/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\6691a1b721d6cb14ffe676fb1efb8601\\res\\values-land\\values-land.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/76c3a64a73ff9849ce8449b182fc7c19/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

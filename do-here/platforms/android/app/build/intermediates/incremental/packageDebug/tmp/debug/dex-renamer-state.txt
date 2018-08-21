@@ -1,4 +1,4 @@
-#Mon Aug 20 12:46:41 IDT 2018
-base.0=C\:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Aug 21 00:57:12 WAT 2018
+base.0=/BackUP/Projects/NativeScript/dohere/do-here/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

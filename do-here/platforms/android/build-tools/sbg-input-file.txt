@@ -1,1 +1,1 @@
-C:\Users\Jonny\Desktop\NativScript\1\do-here\platforms\android\app/src/main/assets/app
+/BackUP/Projects/NativeScript/dohere/do-here/platforms/android/app/src/main/assets/app

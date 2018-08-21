@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\tempPlugin\\nativescript_google_maps_sdk\\build\\intermediates\\res\\merged\\release\\values-fi\\values-fi.xml",
+            "outputFile": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/tempPlugin/nativescript_google_maps_sdk/build/intermediates/res/merged/release/values-fi/values-fi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\f9c3407d2b992022a7282911f7622ae2\\res\\values-fi\\values.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9298bed2dab1c5794b5ef40e5ebe514d/res/values-fi/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\118d32a981128eee0435391f5bfefe9e\\res\\values-fi\\values.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/56e0ae8668a8ce0f8dd4c9e64668b276/res/values-fi/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\90de06c521459fba2ddd84306f583ad1\\res\\values-fi\\values-fi.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76d2d6360526f15b00bd49fb06ffc850/res/values-fi/values-fi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -57,10 +57,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\tempPlugin\\nativescript_google_maps_sdk\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fi\\values-fi.xml",
+            "outputFile": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/tempPlugin/nativescript_google_maps_sdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fi/values-fi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\f9c3407d2b992022a7282911f7622ae2\\res\\values-fi\\values.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9298bed2dab1c5794b5ef40e5ebe514d/res/values-fi/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -77,7 +77,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\118d32a981128eee0435391f5bfefe9e\\res\\values-fi\\values.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/56e0ae8668a8ce0f8dd4c9e64668b276/res/values-fi/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -94,7 +94,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\90de06c521459fba2ddd84306f583ad1\\res\\values-fi\\values-fi.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76d2d6360526f15b00bd49fb06ffc850/res/values-fi/values-fi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

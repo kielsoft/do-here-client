@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Task } from '~/@shared/viewModels/taskViewModel/taskViewModel';
-import { isEnabled, enableLocationRequest, getCurrentLocation, watchLocation, distance, clearWatch } from "nativescript-geolocation";
+import { RouterExtensions } from 'nativescript-angular/router';
 
 @Component({
   moduleId: module.id,
@@ -11,7 +11,7 @@ import { isEnabled, enableLocationRequest, getCurrentLocation, watchLocation, di
 export class NewTaskComponent implements OnInit {
   task:Task;
 
-  constructor() {
+  constructor(private routerExtensions: RouterExtensions) {
     this.task= new Task();
    }
 
@@ -21,5 +21,8 @@ export class NewTaskComponent implements OnInit {
       console.log(this.task.Description);
     }
 
-    
+    moveToMap(){
+      console.log("tap");
+        this.routerExtensions.navigate(["../map"]);
+    }
   }

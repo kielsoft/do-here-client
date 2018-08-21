@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\tempPlugin\\nativescript_google_maps_sdk\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/tempPlugin/nativescript_google_maps_sdk/build/intermediates/res/merged/release/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\90de06c521459fba2ddd84306f583ad1\\res\\values-v21\\values-v21.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76d2d6360526f15b00bd49fb06ffc850/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\e3446f6da6e0f0d7a22d16030b6d5eb7\\res\\values-v21\\values-v21.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7eb7d68a6649d6fa13925523ff4ee3af/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",
@@ -44,10 +44,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Jonny\\Desktop\\NativScript\\1\\do-here\\platforms\\tempPlugin\\nativescript_google_maps_sdk\\build\\intermediates\\res\\merged\\release\\values-v21\\values-v21.xml",
+            "outputFile": "/BackUP/Projects/NativeScript/dohere/do-here/platforms/tempPlugin/nativescript_google_maps_sdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\90de06c521459fba2ddd84306f583ad1\\res\\values-v21\\values-v21.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/76d2d6360526f15b00bd49fb06ffc850/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -66,7 +66,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jonny\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\e3446f6da6e0f0d7a22d16030b6d5eb7\\res\\values-v21\\values-v21.xml",
+                    "source": "/Users/olayode/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7eb7d68a6649d6fa13925523ff4ee3af/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",
