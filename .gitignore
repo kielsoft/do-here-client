@@ -65,4 +65,5 @@ typings/
 /do-here/platforms
 /do-here/hooks
 /do-here/lib
+/do-here/app/**/*.js
 
