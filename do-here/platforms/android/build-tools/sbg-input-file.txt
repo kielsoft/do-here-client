@@ -1,1 +1,0 @@
-/BackUP/Projects/NativeScript/dohere/do-here/platforms/android/app/src/main/assets/app
