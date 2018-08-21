@@ -1,9 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { registerElement } from 'nativescript-angular/element-registry';
 import { MapView, Marker, Position } from 'nativescript-google-maps-sdk';
 
-// Important - must register MapView plugin in order to use in Angular templates
-registerElement('MapView', () => MapView);
 
 @Component({
   moduleId: module.id,
